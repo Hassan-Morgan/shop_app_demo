@@ -1,0 +1,9 @@
+const LOGIN = 'login';
+const HOME ='home';
+const CATEGORIES = 'categories';
+const FAVORITES ='favorites';
+const PROFILE = 'profile';
+const UPDATE_PROFILE = 'update-profile';
+const CHANGE_PASSWORD = 'change-password';
+const SIGN_UP = 'register';
+const SEARCH = 'products/search';
